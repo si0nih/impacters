@@ -1,0 +1,5 @@
+{
+  "name": "Church Small Group Manager",
+  "description": "An application to manage small group members, organize events, track attendance, and get reminders for birthdays and anniversaries.",
+  "requestFramePermissions": []
+}
